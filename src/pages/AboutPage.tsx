@@ -7,11 +7,7 @@ import estimaImage from "@/assets/estima-showcase.jpg";
 import carMeetImage from "@/assets/car-meet.jpg";
 
 const interests = [
-  { icon: "🚗", label: "JDM Culture" },
-  { icon: "👕", label: "BAPE / Streetwear" },
-  { icon: "🎵", label: "K-pop / J-pop" },
-  { icon: "🎤", label: "88 Rising" },
-  { icon: "📱", label: "Tech Enthusiast" },
+  { icon: "🚗", label: "Van Kulture" },
   { icon: "🥚", label: "Egg Van Life" },
 ];
 
@@ -74,13 +70,13 @@ export default function AboutPage() {
               </p>
               
               <p>
-                The <strong className="text-foreground">1991 Previa</strong> was my first egg. Found it with a friend's help, 
+                The <strong className="text-foreground">1996 Previa</strong> was my first egg. Found it with a friend's help, 
                 already knowing I wanted to breathe new life into this quirky piece of automotive history. The mid-engine 
                 layout, the supercharger potential, the space-age styling – it was unlike anything else on the road.
               </p>
               
               <p>
-                Then came the <strong className="text-foreground">1992 Estima</strong> – the true JDM version. Imported from Japan 
+                Then came the <strong className="text-foreground">1998 Estima</strong> – the true JDM version. Imported from Japan 
                 with all the goodies: different suspension, unique interior trim, and that authentic right-hand-drive experience. 
                 Sourcing parts for this one has become an obsession, connecting with sellers across Japan and fellow enthusiasts worldwide.
               </p>
@@ -106,11 +102,11 @@ export default function AboutPage() {
               <div className="aspect-video rounded-egg-lg overflow-hidden mb-6">
                 <img 
                   src={heroImage} 
-                  alt="1991 Toyota Previa" 
+                  alt="1996 Toyota Previa" 
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                 />
               </div>
-              <h3 className="font-heading text-3xl mb-2">1991 Toyota Previa</h3>
+              <h3 className="font-heading text-3xl mb-2">1996 Toyota Previa</h3>
               <p className="text-muted-foreground font-body">
                 USDM spec. Supercharged 2TZ-FE. The daily driver that turns heads everywhere it goes.
               </p>
@@ -120,11 +116,11 @@ export default function AboutPage() {
               <div className="aspect-video rounded-egg-lg overflow-hidden mb-6">
                 <img 
                   src={estimaImage} 
-                  alt="1992 Toyota Estima" 
+                  alt="1998 Toyota Estima" 
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                 />
               </div>
-              <h3 className="font-heading text-3xl mb-2">1992 Toyota Estima</h3>
+              <h3 className="font-heading text-3xl mb-2">1998 Toyota Estima</h3>
               <p className="text-muted-foreground font-body">
                 JDM import. Right-hand drive. Full of rare parts that took years to source.
               </p>
