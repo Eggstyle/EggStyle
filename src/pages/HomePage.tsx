@@ -59,7 +59,7 @@ export default function HomePage() {
             
             <p className="font-body text-xl md:text-2xl text-muted-foreground mb-8 animate-slide-up stagger-1">
               Celebrating 90's Toyota van culture. <br />
-              <span className="text-primary font-semibold">1991 Previa × 1992 Estima</span>
+              <span className="text-primary font-semibold">1996 Previa × 1998 Estima</span>
             </p>
             
             <div className="flex flex-wrap gap-4 animate-slide-up stagger-2">
@@ -141,14 +141,14 @@ export default function HomePage() {
               <div className="aspect-[4/3] overflow-hidden">
                 <img 
                   src={heroImage} 
-                  alt="1991 Toyota Previa" 
+                  alt="1996 Toyota Previa" 
                   className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
                 />
               </div>
               <div className="absolute inset-0 bg-gradient-to-t from-foreground/90 via-foreground/20 to-transparent" />
               <div className="absolute bottom-0 left-0 right-0 p-8">
                 <p className="text-primary font-bold text-sm uppercase tracking-widest mb-2">USDM</p>
-                <h3 className="font-heading text-4xl text-background mb-2">1991 Previa</h3>
+                <h3 className="font-heading text-4xl text-background mb-2">1996 Previa</h3>
                 <p className="text-background/70 font-body">The American egg. Clean, classic, supercharged.</p>
               </div>
             </Link>
@@ -158,14 +158,14 @@ export default function HomePage() {
               <div className="aspect-[4/3] overflow-hidden">
                 <img 
                   src={estimaImage} 
-                  alt="1992 Toyota Estima" 
+                  alt="1998 Toyota Estima" 
                   className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
                 />
               </div>
               <div className="absolute inset-0 bg-gradient-to-t from-foreground/90 via-foreground/20 to-transparent" />
               <div className="absolute bottom-0 left-0 right-0 p-8">
                 <p className="text-primary font-bold text-sm uppercase tracking-widest mb-2">JDM</p>
-                <h3 className="font-heading text-4xl text-background mb-2">1992 Estima</h3>
+                <h3 className="font-heading text-4xl text-background mb-2">1998 Estima</h3>
                 <p className="text-background/70 font-body">True JDM spec. Imported. Rare parts galore.</p>
               </div>
             </Link>
@@ -256,7 +256,7 @@ export default function HomePage() {
       {/* CTA Section */}
       <section className="py-20 bg-foreground text-background">
         <div className="container mx-auto px-4 text-center">
-          <img src={eggLogo} alt="EggStyle" className="h-24 w-24 object-contain mx-auto mb-6 invert animate-float" />
+          <img src={eggLogo} alt="eggstyle.us" className="h-24 w-24 object-contain mx-auto mb-6 invert animate-float" />
           <h2 className="font-heading text-5xl md:text-7xl mb-6">Follow The Journey</h2>
           <p className="font-body text-xl text-background/70 mb-8 max-w-2xl mx-auto">
             Join the community. Get updates on new builds, rare parts drops, and car meet announcements.
