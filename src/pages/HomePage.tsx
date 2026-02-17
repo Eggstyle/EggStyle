@@ -109,12 +109,12 @@ export default function HomePage() {
           </div>
           <div className="grid md:grid-cols-2 gap-8">
             <Link to="/rides" className="group relative overflow-hidden rounded-egg-lg">
-              <div className="aspect-[4/3] overflow-hidden"><img src={heroImage} alt="1991 Toyota Previa" className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" /></div>
+              <div className="aspect-[4/3] overflow-hidden"><img src={heroImage} alt="1996 Toyota Previa" className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" /></div>
               <div className="absolute inset-0 bg-gradient-to-t from-foreground/90 via-foreground/20 to-transparent" />
-              <div className="absolute bottom-0 left-0 right-0 p-8"><p className="text-primary font-bold text-sm uppercase tracking-widest mb-2">USDM</p><h3 className="font-heading text-4xl text-background mb-2">1991 Previa</h3><p className="text-background/70 font-body">The American egg. Clean, classic, supercharged.</p></div>
+              <div className="absolute bottom-0 left-0 right-0 p-8"><p className="text-primary font-bold text-sm uppercase tracking-widest mb-2">USDM</p><h3 className="font-heading text-4xl text-background mb-2">1996 Previa</h3><p className="text-background/70 font-body">The American egg. Clean, classic, supercharged.</p></div>
             </Link>
             <Link to="/rides" className="group relative overflow-hidden rounded-egg-lg">
-              <div className="aspect-[4/3] overflow-hidden"><img src={estimaImage} alt="1992 Toyota Estima" className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" /></div>
+              <div className="aspect-[4/3] overflow-hidden"><img src={estimaImage} alt="1998 Toyota Estima" className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" /></div>
               <div className="absolute inset-0 bg-gradient-to-t from-foreground/90 via-foreground/20 to-transparent" />
               <div className="absolute bottom-0 left-0 right-0 p-8"><p className="text-primary font-bold text-sm uppercase tracking-widest mb-2">JDM</p><h3 className="font-heading text-4xl text-background mb-2">1992 Estima</h3><p className="text-background/70 font-body">True JDM spec. Imported. Rare parts galore.</p></div>
             </Link>
