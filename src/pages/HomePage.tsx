@@ -67,7 +67,7 @@ export default function HomePage() {
               <span className="jdm-tag">JDM Culture</span>
             </div>
             <h1 className="font-heading text-6xl md:text-8xl leading-none mb-6 animate-slide-up">EggStyle</h1>
-            <p className="font-body text-xl md:text-2xl text-muted-foreground mb-8 animate-slide-up stagger-1">Celebrating 90's Toyota van culture. <br /><span className="text-primary font-semibold">1991 Previa × 1992 Estima</span></p>
+            <p className="font-body text-xl md:text-2xl text-muted-foreground mb-8 animate-slide-up stagger-1">Celebrating 90's Toyota van culture. <br /><span className="text-primary font-semibold">1996 Previa × 1998 Estima</span></p>
             <div className="flex flex-wrap gap-4 animate-slide-up stagger-2">
               <Button variant="hero" size="lg" asChild><Link to="/rides">View The Builds <ArrowRight className="ml-2" /></Link></Button>
               <Button variant="outline" size="lg" asChild><Link to="/shop">Shop JDM Parts</Link></Button>
