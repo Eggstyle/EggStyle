@@ -1,0 +1,42 @@
+{
+  "title": "SC14 Supercharger Rebuild",
+  "excerpt": "Complete teardown and rebuild guide for the Toyota SC14 supercharger found on factory-equipped Previas.",
+  "category": "Performance",
+  "difficulty": 4,
+  "time": "8-10 hours",
+  "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "heroImages": [
+    "/previa supercharger.jpg"
+  ],
+  "featured": true,
+  "tools": {
+    "description": "You'll need a comprehensive socket set, torque wrench, and a complete SC14 rebuild kit. Having a parts organizer helps keep track of all the small components.",
+    "images": [
+      "/hammer.jpg"
+    ]
+  },
+  "steps": [
+    {
+      "title": "Remove the Supercharger",
+      "content": "Start by disconnecting the battery negative terminal. Remove the intake piping and loosen all mounting bolts. Carefully lift the supercharger away from the engine bay.\n",
+      "images": [
+        "/hero-previa.jpg"
+      ]
+    },
+    {
+      "title": "Disassemble the Unit",
+      "content": "Carefully separate the front and rear housings. Remove the rotors and inspect for wear. Take photos as you go to remember the orientation of all parts.\n",
+      "images": [
+        "/estima-showcase.jpg",
+        "/car-meet.jpg"
+      ]
+    },
+    {
+      "title": "Install New Components",
+      "content": "Replace all bearings, seals, and gaskets from the rebuild kit. Apply assembly lube to moving parts. Torque all fasteners to spec (refer to rebuild kit instructions).\n",
+      "images": [
+        "/hero-previa.jpg"
+      ]
+    }
+  ]
+}
