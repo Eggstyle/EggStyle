@@ -13,7 +13,7 @@ const footerLinks = [
 ];
 
 const socialLinks = [
-  { name: "Instagram", icon: Instagram, url: "https://instagram.com/eggstyle" },
+  { name: "Instagram", icon: Instagram, url: "https://instagram.com/eggstyle.us" },
   { name: "YouTube", icon: Youtube, url: "https://youtube.com/@eggstyle" },
   { name: "Email", icon: Mail, url: "mailto:hello@eggstyle.com" },
 ];
