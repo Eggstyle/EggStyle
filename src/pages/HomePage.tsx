@@ -176,7 +176,7 @@ export default function HomePage() {
           <h2 className="font-heading text-5xl md:text-7xl mb-6">Follow The Journey</h2>
           <p className="font-body text-xl text-background/70 mb-8 max-w-2xl mx-auto">Join the community. Get updates on new builds, rare parts drops, and car meet announcements.</p>
           <div className="flex flex-wrap justify-center gap-4">
-            <Button variant="yolk" size="lg" asChild><a href="https://instagram.com/eggstyle" target="_blank" rel="noopener noreferrer">@EggStyle on Instagram</a></Button>
+            <Button variant="yolk" size="lg" asChild><a href="https://instagram.com/eggstyle.us" target="_blank" rel="noopener noreferrer">@EggStyle.us on Instagram</a></Button>
             <Button variant="outline" size="lg" className="border-background/30 text-background hover:bg-background hover:text-foreground" asChild><Link to="/about">Learn More</Link></Button>
           </div>
         </div>
