@@ -116,7 +116,7 @@ export default function HomePage() {
             <Link to="/rides" className="group relative overflow-hidden rounded-egg-lg">
               <div className="aspect-[4/3] overflow-hidden"><img src={estimaImage} alt="1998 Toyota Estima" className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" /></div>
               <div className="absolute inset-0 bg-gradient-to-t from-foreground/90 via-foreground/20 to-transparent" />
-              <div className="absolute bottom-0 left-0 right-0 p-8"><p className="text-primary font-bold text-sm uppercase tracking-widest mb-2">JDM</p><h3 className="font-heading text-4xl text-background mb-2">1992 Estima</h3><p className="text-background/70 font-body">True JDM spec. Imported. Rare parts galore.</p></div>
+              <div className="absolute bottom-0 left-0 right-0 p-8"><p className="text-primary font-bold text-sm uppercase tracking-widest mb-2">JDM</p><h3 className="font-heading text-4xl text-background mb-2">1998 Estima</h3><p className="text-background/70 font-body">True JDM spec. Imported. Rare parts galore.</p></div>
             </Link>
           </div>
           <div className="mt-8 md:hidden"><Button variant="pill" asChild className="w-full"><Link to="/rides">View All Rides <ArrowRight className="ml-2 h-4 w-4" /></Link></Button></div>
