@@ -51,7 +51,7 @@ export default function RidesPage() {
       <section className="py-20 bg-secondary">
         <div className="container mx-auto px-4 text-center">
           <span className="jdm-tag mb-6 inline-block">The Fleet</span>
-          <h1 className="font-heading text-6xl md:text-8xl mb-6">Our Rides</h1>
+          <h1 className="font-heading text-6xl md:text-8xl mb-6">The Eggs</h1>
           <p className="font-body text-xl text-muted-foreground max-w-2xl mx-auto">Egg-shaped legends. Different markets, different specs, same obsession.</p>
         </div>
       </section>
